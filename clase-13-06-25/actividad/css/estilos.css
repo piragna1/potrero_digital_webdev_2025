@@ -1,0 +1,38 @@
+/*----1*/
+#menuPrincipal {
+    list-style-type: none;
+    color:red;
+}
+/*1*/
+
+/*----2*/
+main ul,ol{
+    background-color: blue;
+    color: white;
+}
+/**/
+
+/*----3*/
+#titulo-seccion-1{
+    font-size: 38px;
+}
+h2{
+    font-size: 20px;
+}
+/* Se puede observar:
+    - el h2 de la seccion 1 conserva el tamanio de 38px (pareciera que tiene prioridad aquello que
+    se declara a traves de el selector por id).
+    - el h2 de la seccion 2 cambia el tamanio de fuente de su contenido a 20px.
+*/
+/*3*/
+
+
+
+/*experimental
+#em{
+ font-size: 2em;   
+}
+#rem{
+ font-size: 2rem;   
+}
+*/

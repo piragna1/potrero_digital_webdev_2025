@@ -1,0 +1,19 @@
+/* SELECTOR UNIVERSAL O GENERICO */
+* {
+    font-size: 42px; /* px = pixel */
+}
+
+/* SELECTOR POR ETIQUETA */
+h4 {
+    color: orange;
+    background-color: black;
+}
+
+/* SELECTOR POR ID (IDENTIFICACION) */
+#tituloFooter {
+    color: black;
+    background-color: blue;
+    font-size: 80px;
+}
+
+/* SELECTOR POR CLASE (CLASS) */
