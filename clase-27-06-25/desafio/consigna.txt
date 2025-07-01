@@ -1,0 +1,16 @@
+Dada la imagen adjunta, generar una estructura html y código css que permita darle los estilos según corresponda: 
+
+1) Utilizar la fuente «Arial» para todo el proyecto.
+2) Centrar el texto horizontalmente en todos los elementos. (Investigar la propiedad text-align)
+3) Establecer un ancho del 80% para la tabla, de manera que ocupe el 80% del ancho disponible en la ventana y centrar la tabla horizontalmente con un margen superior
+     de 20 píxeles. (para centrar la tabla investigar la propiedad de margin con el valor "auto").
+4) Para el caption de la tabla, utilizar una fuente de 20px. (El caption es la descripción corta de que se trata la tabla, en la foto esta ubicado abajo 
+    de la misma => para tener referenciar: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
+5) TODAS las celdas deben tener un padding de 10px. 
+6) Establecer un fondo azul (#009688) para las celdas de encabezado con texto blanco (#fff).
+7) Agregar un borde sólido de 1 píxel con color gris claro (#ddd) a todas las celdas.
+8) Aplicar un fondo gris claro (#f2f2f2) a las filas impares del cuerpo de la tabla.
+9) Cambiar el fondo de la fila a un tono de verde claro (#c7e2e0) al pasar el cursor sobre ella.
+10) Agregar el símbolo del pesos ($) antes de los valores en la tercera columna (Precio) de las filas del cuerpo de la tabla. (No lo pongan a mano como valor 
+    de las celdas)
+11) Colocar, mediante css, el caption de la tabla en la parte inferior de la misma. (Investigar la propiedad caption-side de css)
